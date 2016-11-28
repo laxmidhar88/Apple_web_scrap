@@ -11,7 +11,6 @@ import HTMLParser
 import json
 link1=[]
 listLink=[]
-apple_file = open("apple1.json","a+")
 for i in range(2012,2015):
     initUrl='https://developer.apple.com/videos/wwdc'+str(i)+'/'
     html2 = urllib2.urlopen(initUrl).read()
@@ -71,5 +70,3 @@ for li in link1:
         pass
 lastjson={"sessions":listLink}
 print lastjson
-#json.dump(lastjson,apple_file, indent=4)
-apple_file.close()
