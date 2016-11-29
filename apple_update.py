@@ -27,7 +27,9 @@ for i in range(2015,2017):
     for tag in soup1:
         lilnk = tag.a.get('href')
         link1.append(lilnk)
+#i=0
 for li in link1:
+    #i+=1
     initUrll='https://developer.apple.com'+li
     urllist=initUrll.split('/')
     ssn=urllist[-2]
@@ -36,7 +38,6 @@ for li in link1:
         html2 = urllib2.urlopen(initUrll).read()    
         soup = BeautifulSoup(html2,'lxml')
         lilnk = soup.find('h1').getText()
-        #print lilnk
         videoUrl=soup.find_all("li", class_="video")
         videoUrl=str(videoUrl)
         docUrl=soup.find_all("li", class_="document")
@@ -64,9 +65,11 @@ for li in link1:
         else:
             pdf = null
         myjosondata={"tilte":lilnk,"year":yr,"sessionNumber":ssn,hdv:hdvlnk,sdv:sdvlnk,pdfname:pdf}
-        #print myjosondata
         listLink.append(myjosondata)
     except:
         pass
+#    if i == 10:
+#        break"""
 lastjson={"sessions":listLink}
-print lastjson
+JsonData=json.dumps(lastjson,indent=4)
+print JsonData
