@@ -1,0 +1,84 @@
+{
+    "sessions": [
+        {
+            "tilte": "Building Great Newsstand Apps", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_307__building_great_newsstand_apps.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_307__building_great_newsstand_apps.mov", 
+            "sessionNumber": "307", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_307__building_great_newsstand_apps.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Building and Distributing Custom B2B Apps for iOS", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_311__building_and_distributing_custom_b2b_apps_for_ios.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_311__building_and_distributing_custom_b2b_apps_for_ios.mov", 
+            "sessionNumber": "311", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_311__building_and_distributing_custom_b2b_apps_for_ios.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Events and Reminders in Event Kit", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_304__events_and_reminders_in_event_kit.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_304__events_and_reminders_in_event_kit.mov", 
+            "sessionNumber": "304", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_304__events_and_reminders_in_event_kit.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Getting Around Using Map Kit", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_300__getting_around_using_map_kit.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_300__getting_around_using_map_kit.mov", 
+            "sessionNumber": "300", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_300__getting_around_using_map_kit.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Integrating With Facebook, Twitter and Sina Weibo", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_306__integrating_with_facebook_twitter_and_sina_weibo.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_306__integrating_with_facebook_twitter_and_sina_weibo.mov", 
+            "sessionNumber": "306", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_306__integrating_with_facebook_twitter_and_sina_weibo.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Introducing Passbook, Part 1", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_301__introducing_passbook_part_1.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_301__introducing_passbook_part_1.mov", 
+            "sessionNumber": "301", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_301__introducing_passbook_part_1.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Introducing Passbook, Part 2", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_309__introducing_passbook_part_2.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_309__introducing_passbook_part_2.mov", 
+            "sessionNumber": "309", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_309__introducing_passbook_part_2.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Managing Subscriptions with In-App Purchase", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_308__managing_subscriptions_with_inapp_purchase.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_308__managing_subscriptions_with_inapp_purchase.mov", 
+            "sessionNumber": "308", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_308__managing_subscriptions_with_inapp_purchase.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Selling Products with Store Kit", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_302__selling_products_with_store_kit.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_302__selling_products_with_store_kit.mov", 
+            "sessionNumber": "302", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_302__selling_products_with_store_kit.mov", 
+            "year": "2012"
+        }, 
+        {
+            "tilte": "Staying on Track with Location Services", 
+            "Presentation Slides (PDF)": "http://developer.apple.com/devcenter/download.action?path=/wwdc_2012/wwdc_2012_session_pdfs/session_303__staying_on_track_with_location_services.pdf", 
+            "SD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__sd/session_303__staying_on_track_with_location_services.mov", 
+            "sessionNumber": "303", 
+            "HD Video": "https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2012__hd/session_303__staying_on_track_with_location_services.mov", 
+            "year": "2012"
+        }
+    ]
+}
